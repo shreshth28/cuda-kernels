@@ -1,0 +1,11 @@
+GPU:       Tesla T4, 15360 MiB
+Kernel:    kernels/matmul_naive.cu
+Commit:    ef831877
+Timestamp: 2026-04-22T05:07:21.801674+00:00
+
+GPU:        Tesla T4
+Matrix:     1024x1024
+Time:       7.991 ms
+GFLOPS:     268.73
+C[0][0]:    255.670349
+C[N/2][N/2]: 268.977722
