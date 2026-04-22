@@ -1,0 +1,6 @@
+{
+  "sha": "ef831877f06929a339a4bbce845ec9ff477dc8fe",
+  "cu_file": "kernels/matmul_naive.cu",
+  "timestamp": "2026-04-22T05:01:00.354596+00:00",
+  "status": "pending"
+}
